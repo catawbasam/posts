@@ -1,4 +1,4 @@
-A few things I have written unsing IPython notebooks, Pull request for fixes welcome as usual :
+A few things I have written using IPython notebooks, Pull request for fixes welcome as usual :
 
   - [01-post1](http://nbviewer.ipython.org/urls/raw.github.com/Carreau/posts/master/Blog1.ipynb)
   - [02-css-selector](http://nbviewer.ipython.org/urls/raw.github.com/Carreau/posts/master/02-css-selector.ipynb)
